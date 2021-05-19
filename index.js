@@ -14,34 +14,18 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
 }
 
-/*function sayHiToGrandma(string) {
+function sayHiToGrandma(string) {
   var uppercase
   var lowercase
   var mixedCase
 
-  if (uppercase.toUpperCase() === uppercase) {
+  if (string.toUpperCase() === string) {
     return "YES INDEED!"
   }
 
-  if (lowercase.toLowerCase() === lowercase) {
+  if (string.toLowerCase() === string) {
     return "I can't hear you!"
   }
 
-  if (mixedCase.toLowerCase() === mixedCase) {
-    return nil
-  }
-
-  if (mixedCase.toUpperCase() === mixedCase) {
-    return nil
-  }
-}*/
-
-function sayHiToGrandma(string) {
-  var x
-
-  switch(x)
-  case (x.toUpperCase === x):
-  
-  break;
-
+  if (string === "")
 }
