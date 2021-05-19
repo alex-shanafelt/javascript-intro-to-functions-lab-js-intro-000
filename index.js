@@ -43,5 +43,5 @@ function sayHiToGrandma(string) {
   case (x.toUpperCase === x):
   
   break;
-  
+
 }
