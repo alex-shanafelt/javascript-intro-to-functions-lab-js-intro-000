@@ -40,5 +40,8 @@ function sayHiToGrandma(string) {
   var x
 
   switch(x)
+  case (x.toUpperCase === x):
+  
+  break;
   
 }
