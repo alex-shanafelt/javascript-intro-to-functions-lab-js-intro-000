@@ -14,7 +14,7 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
 }
 
-function sayHiToGrandma(string) {
+/*function sayHiToGrandma(string) {
   var uppercase
   var lowercase
   var mixedCase
@@ -34,6 +34,11 @@ function sayHiToGrandma(string) {
   if (mixedCase.toUpperCase() === mixedCase) {
     return nil
   }
+}*/
 
+function sayHiToGrandma(string) {
+  var x
 
+  switch(x)
+  
 }
